@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="/index.css">
+    <script src="/index.js"></script>
+    <title>TicTacToe</title>
+</head>
+
+<body>
+    <section id="container">
+        <div id="div_main">
+
+            <p id="instrucao">Para jogar só clicar em algum espaço vazio.
+                <br><br>
+                <b>Player 1 marca X e Player 2 marca O</b>
+                <b></b>
+            </p>
+            <div id="jogo">
+            <input type="text" id="b1" onclick="minhaFuncao_1(); myfunc(); readonly">
+            <input type="text" id="b2" onclick="minhaFuncao_2(); myfunc(); readonly">
+            <input type="text" id="b3" onclick="minhaFuncao_3(); myfunc(); readonly">
+            <br><br>
+            <input type="text" id="b4" onclick="minhaFuncao_4(); myfunc(); readonly">
+            <input type="text" id="b5" onclick="minhaFuncao_5(); myfunc(); readonly">
+            <input type="text" id="b6" onclick="minhaFuncao_6(); myfunc(); readonly">
+            <br><br>
+            <input type="text" id="b7" onclick="minhaFuncao_7(); myfunc(); readonly">
+            <input type="text" id="b8" onclick="minhaFuncao_8(); myfunc(); readonly">
+            <input type="text" id="b9" onclick="minhaFuncao_9(); myfunc(); readonly">
+            </div>
+            <br><br>
+            <button id="btn_inicio" onclick="myReset()">
+                INICIAR
+            </button>
+            <br>
+             <div id="autor">
+                <a class="autor" href="https://www.instagram.com/eng.venturajr/" title="Ventura Jr" alt="Instagram" target="_blank">
+                <img width="15" height="15" src="./img/instagram.png"><h1>eng.venturajr</h1></a> 
+            </div>
+            <p id="print"></p>
+
+        </div>
+    </section>
+</body>
+
+</html>
