@@ -1,4 +1,4 @@
-# Tela - Login
+# TicTacToe - Jogo da velha
 O jogo da velha é jogado em uma grade de três por três por dois jogadores, que colocam alternadamente as marcas X e O em um dos nove espaços da grade.
 
 No exemplo a seguir, o primeiro jogador ( X ) vence o jogo em sete etapas:
