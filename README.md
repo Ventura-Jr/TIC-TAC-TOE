@@ -9,7 +9,7 @@ Não existe uma regra universalmente aceita sobre quem joga primeiro, mas neste 
 
 Os jogadores logo descobrem que a melhor jogada de ambas as partes leva ao empate . Portanto, o jogo da velha é frequentemente jogado por crianças pequenas que podem não ter descoberto a estratégia ideal.
 
-![image](https://github.com/Ventura-Jr/TIC-TAC-TOE/assets/122493018/6d1c8978-a7c1-43ac-aa99-dc4c13ca14d9)
+![image](https://github.com/Ventura-Jr/TIC-TAC-TOE/assets/122493018/b5bb9e79-6a68-43f8-88f6-1ff722de9309)
 
 # Desenvolvimento
 O TicTacToe foi desenvolvido utilizando as seguintes tecnologias:
